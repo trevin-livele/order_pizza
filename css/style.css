@@ -48,3 +48,52 @@
     font-weight: bold;
   }
   
+
+
+
+.search {
+    position:relative;
+    height: 20px;
+    align-items: right;
+}
+ 
+.search .input{
+    background-color: #fff;
+    border: 0;
+    font-size: 18px;
+    padding: 15px;
+    height: 30px;
+    width: 30px;
+    transition: width 0.3s ease;
+}
+ 
+.btn-search {
+    background-color: #fff;
+    border: 0;
+    cursor: pointer;
+    font-size: 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 30px;
+    width: 30px;
+    transition: transform 0.3s ease;
+}
+
+
+
+
+
+.btn-search:focus,
+.input:focus {
+    outline: none;
+}
+
+.search.active .input{
+    width: 100px;
+}
+
+.search.active .btn{
+    transform: translateX(198px);
+}
+  
