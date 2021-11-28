@@ -374,6 +374,17 @@ h1 {
 
 
 
+  
+.register {
+  background-color: #f9fafb;
+  font-family: 'Open Sans', sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 90vh;
+  margin: 0;
+}
+
 
 
 
@@ -441,8 +452,8 @@ h1 {
   
   .form button {
     cursor: pointer;
-    background-color: #3498db;
-    border: 2px solid #3498db;
+    background-color: rgba(87, 84, 236, 0.7);
+    background-color: rgba(87, 84, 236, 0.7);
     border-radius: 4px;
     color: #fff;
     display: block;
