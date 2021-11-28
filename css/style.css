@@ -4,7 +4,7 @@
   --left-bg-color: rgba(87, 84, 236, 0.7);
   --right-bg-color: rgba(43, 43, 43, 0.8);
   --left-btn-hover-color: rgb(255, 255, 255);
-  --right-btn-hover-color: rgba(28, 122, 28, 1);
+  --right-btn-hover-color: rgb(255, 255, 255);
   --hover-width: 75%;
   --other-width: 25%;
   --speed: 1000ms;
@@ -59,6 +59,8 @@ h1 {
 .split.right .btn:hover {
   background-color: var(--right-btn-hover-color);
   border-color: var(--right-btn-hover-color);
+  border-color: #fff;
+  color: #000;
 }
 
 .container {
