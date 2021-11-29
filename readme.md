@@ -20,6 +20,7 @@ projects done section"
 .CSS
 .BOOTSTRAP
 .JAVASCRIPT
+.jquery
 
 
 ## Support and contact details
