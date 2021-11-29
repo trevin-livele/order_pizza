@@ -1,4 +1,4 @@
-![alt text](/img/)
+![alt text](/img/screenshots/Screenshot1.png)
 
 # Team members
 Trevin Livele
