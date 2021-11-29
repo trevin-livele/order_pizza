@@ -32,9 +32,11 @@ Information Technology Expert
 
 
 
-![alt text](/img/)
-![alt text](/img/)
-![alt text](/img/)
+![alt text](/img/screenshots/Screenshot1.png)
+![alt text](/img/screenshots/Screenshot2.png)
+![alt text](/img/screenshots/Screenshot3.png)
+![alt text](/img/screenshots/Screenshot4.png)
+
 
 
 
