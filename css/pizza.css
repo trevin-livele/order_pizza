@@ -10,6 +10,16 @@
     text-align: center;
     font-size: 2.5em;
 }
+.container-form {
+    background-color: #fff;
+    padding: 20px 40px;
+    border-radius: 5px;
+    text-align: center;
+    margin-bottom: 30px;
+    color: #171b20;
+  }
+  }
+  
 
 .about-band-image {
     float: left;
